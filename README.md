@@ -6,6 +6,7 @@ This asset captures the image of a brick and sends a command to start processing
 
 ![Screenshot_2](https://github.com/zat228/CvGeometryCurs/assets/29509544/18b8c9fe-edaf-47be-8ab5-464816ab7f92)
 
+# Image processing using the OpenCV library
 On the part of the python script, the image is processed and analyzed:
 Image processing begins with the translation of images into achromatic colors.
 Next, the image is converted to bitwise, where :1 is a white pixel, 0 is black.
